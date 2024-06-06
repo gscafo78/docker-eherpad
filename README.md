@@ -1,18 +1,17 @@
 <img align="left" src="https://etherpad.org/assets/brand-ruuyTPHN.svg" width="250px">
+<br>
 
-
-
-
-# Etherpad: A real-time collaborative editor for the web
+# A real-time collaborative editor for the web
 
 ## About
 
-Etherpad is a real-time collaborative editor [scalable to thousands of
-simultaneous real time users](http://scale.etherpad.org/). It provides [full
-data
-export](https://github.com/ether/etherpad-lite/wiki/Understanding-Etherpad's-Full-Data-Export-capabilities)
-capabilities, and runs on _your_ server, under _your_ control.
+**Etherpad** is an open-source, web-based editor for real-time collaboration.
 
-## Try it out
+- **Real-time Editing:** Simultaneous editing with instant updates.
+- **Version Control:** Infinite undo/redo and time slider.
+- **Simple Interface:** Easy to use, no registration needed.
+- **Customizable:** Plugin support and themes.
+- **Secure:** Self-hosting and SSL support.
+- **Web-Based:** Accessible via any browser.
 
-Wikimedia provide a [public Etherpad instance for you to Try Etherpad out.](https://etherpad.wikimedia.org) or [use another public Etherpad instance to see other features](https://github.com/ether/etherpad-lite/wiki/Sites-That-Run-Etherpad#sites-that-run-etherpad)
+[Learn more](https://etherpad.org).
